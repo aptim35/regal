@@ -1,0 +1,11 @@
+[04-Apr-2022 14:24:03 Europe/Istanbul] PHP Fatal error:  Call to a member function prepare() on null in /home/cahitcenksoy/public_html/admin/slider.php on line 27
+[04-Apr-2022 14:48:56 Europe/Istanbul] PHP Warning:  include(islem/baglanti): failed to open stream: No such file or directory in /home/cahitcenksoy/public_html/admin/slider-duzenle.php on line 2
+[04-Apr-2022 14:48:56 Europe/Istanbul] PHP Warning:  include(islem/baglanti): failed to open stream: No such file or directory in /home/cahitcenksoy/public_html/admin/slider-duzenle.php on line 2
+[04-Apr-2022 14:48:56 Europe/Istanbul] PHP Warning:  include(): Failed opening 'islem/baglanti' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/cahitcenksoy/public_html/admin/slider-duzenle.php on line 2
+[04-Apr-2022 14:48:56 Europe/Istanbul] PHP Fatal error:  Call to a member function prepare() on null in /home/cahitcenksoy/public_html/admin/slider-duzenle.php on line 4
+[20-May-2022 11:51:52 Europe/Istanbul] PHP Warning:  Illegal string offset 'aciklama_tr' in /home/cahitcenksoy/public_html/admin/sizdengelen.php on line 40
+[20-May-2022 11:52:06 Europe/Istanbul] PHP Warning:  Illegal string offset 'aciklama_tr' in /home/cahitcenksoy/public_html/admin/sizdengelen.php on line 40
+[07-Dec-2022 11:26:58 Europe/Istanbul] PHP Fatal error:  Call to a member function prepare() on null in /home/cahitcenksoy/public_html/admin/header.php on line 5
+[07-Dec-2022 11:27:00 Europe/Istanbul] PHP Fatal error:  Call to a member function prepare() on null in /home/cahitcenksoy/public_html/admin/header.php on line 5
+[07-Dec-2022 11:27:02 Europe/Istanbul] PHP Fatal error:  Call to a member function prepare() on null in /home/cahitcenksoy/public_html/admin/header.php on line 5
+[07-Dec-2022 11:27:03 Europe/Istanbul] PHP Fatal error:  Call to a member function prepare() on null in /home/cahitcenksoy/public_html/admin/header.php on line 5
